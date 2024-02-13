@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TinyjoyTW
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on small projects to practice HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on small projects to practice HTML, CSS, JavaScript and React.
 - 📫 How to reach me: joy.huang.de@gmail.com
 - ⚡ Fun fact: I'm a 🍌.
 
